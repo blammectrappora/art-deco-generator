@@ -69,3 +69,12 @@ node <script> "your prompt" --token YOUR_TOKEN
 
 Returns a direct image URL.
 
+## Example Output
+
+```bash
+node artdecogenerator.js "art deco style illustration, geometric patterns, symmetrical sunburst motifs, gold and black color palette, ornate metallic details, 1920s Gatsby aesthetic, luxurious art deco design, stepped fan shapes, chevron and zigzag patterns, elegant typography ornamentation, high contrast, opulent vintage glamour"
+```
+
+![Example output](https://oss.talesofai.cn/picture/30c5edfa-e2fd-4389-a4c7-ac555d20a695.webp)
+
+> Prompt: *"art deco style illustration, geometric patterns, symmetrical sunburst motifs, gold and black color palette, ornate metallic details, 1920s Gatsby aesthetic, luxurious art deco design, stepped fan shapes, chevron and zigzag patterns, elegant typography ornamentation, high contrast, opulent vintage glamour"*
